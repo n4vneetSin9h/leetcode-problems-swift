@@ -9,6 +9,8 @@ Swift solutions for leetcode problems
 #### [13. Roman To Integer](https://github.com/n4vneetSin9h/leetcode-problems/blob/main/13.%20Roman_To_Integer.swift)
 #### [14. Longest Common Prefix](https://github.com/n4vneetSin9h/leetcode-problems/blob/main/14.%20Longest_Common_Prefix.swift)
 #### [20. Valid Parantheses](https://github.com/n4vneetSin9h/leetcode-problems/blob/main/20.%20Valid_Parantheses.swift)
+#### [21. Merge_Two_Sorted_Lists](https://github.com/n4vneetSin9h/leetcode-problems/blob/main/21.%20Merge_Two_Sorted_Lists.swift)
+#### [26. Remove_Duplicates_from_Sorted_Array](https://github.com/n4vneetSin9h/leetcode-problems/blob/main/26.%20Remove_Duplicates_from_Sorted_Array.swift)
 #### [2974. Minimum Number Game](https://github.com/n4vneetSin9h/leetcode-problems/blob/main/2974.%20Minimum_Number_Game.swift)
 
 
