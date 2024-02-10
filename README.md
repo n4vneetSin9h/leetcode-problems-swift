@@ -11,6 +11,9 @@ Swift solutions for leetcode problems
 #### [20. Valid Parantheses](https://github.com/n4vneetSin9h/leetcode-problems/blob/main/Easy%20Problems/20.%20Valid_Parantheses.swift)
 #### [21. Merge_Two_Sorted_Lists](https://github.com/n4vneetSin9h/leetcode-problems/blob/main/Easy%20Problems/21.%20Merge_Two_Sorted_Lists.swift)
 #### [26. Remove_Duplicates_from_Sorted_Array](https://github.com/n4vneetSin9h/leetcode-problems/blob/main/Easy%20Problems/26.%20Remove_Duplicates_from_Sorted_Array.swift)
+#### [27. Remove_Element](https://github.com/n4vneetSin9h/leetcode-problems-swift/blob/main/Easy%20Problems/27.%20Remove_Element.swift)
+#### [28. Find_the_Index_of_the_First_Occurrence_in_a_String](https://github.com/n4vneetSin9h/leetcode-problems-swift/blob/main/Easy%20Problems/28.%20Find_the_Index_of_the_First_Occurrence_in_a_String.swift)
+#### [35. Search_Insert_Position](https://github.com/n4vneetSin9h/leetcode-problems-swift/blob/main/Easy%20Problems/35.%20Search_Insert_Position.swift)
 #### [2974. Minimum Number Game](https://github.com/n4vneetSin9h/leetcode-problems/blob/main/Easy%20Problems/2974.%20Minimum_Number_Game.swift)
 
 
