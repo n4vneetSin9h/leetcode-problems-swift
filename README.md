@@ -1,4 +1,4 @@
-# leetcode-problems
+# leetcode-problems-swift
 ```
 Swift solutions for leetcode problems
 ```
